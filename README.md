@@ -1,7 +1,7 @@
 emon-3PVoltage
 ==============
 
-Open Energy Monitoring 3 Phase Voltage Sensing Hardware
+Open Energy Monitoring 3 Phase Voltage Sensing Hardware with optoisolated I²C Interface
 
 
 Images of the finished device can be found here:
